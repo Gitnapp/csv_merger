@@ -1,0 +1,1 @@
+python3 ./csv_merger.py
