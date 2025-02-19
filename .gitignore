@@ -2,6 +2,7 @@
 .DS_Store
 *.csv
 *.xlsx
+*.app
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
